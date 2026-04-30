@@ -19,11 +19,11 @@ My work sits at the intersection of:
 - **Full-stack product development**
 - **Data pipelines & real-world impact tools**
 
-I’ve built systems that:
+My work centers around:
 
-- Reduce research time by **90%+**
-- Improve translation accuracy by **50%**
-- Support real-time decision-making in healthcare and sales
+- Building real world software applications to contribute with problems in the world
+- Developing new AI systems to learn, grow and improve things in society
+- Automating research and software building tasks to help save time and money
 
 ---
 
@@ -33,9 +33,9 @@ I’ve built systems that:
 Python • JavaScript • TypeScript • C • C++ • Rust
 
 **Frontend & Backend:**  
-Next.js • React • Node.js
+Next.js • React • Node.js • MERN Stack
 
-**Databases & Infra:**  
+**Databases & Infrastructure:**  
 Supabase • PostgreSQL • MongoDB • Vercel
 
 **AI / Data:**  
